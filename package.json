@@ -1,7 +1,7 @@
 {
   "name": "usertiming-audit",
   "version": "1.0.0",
-  "description": "",
+  "description": "Lighthouse extension only to audit custom usertimings",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
